@@ -2,6 +2,6 @@
 
 **'Desenvolvedor FullStack / Engenharia / Desenvolvimento de software '**
 
-Me chamo João Victor, tenho 22 anos, São Paulo SP, conclui o ensino medio na rede publica, sou formado em ADS Analise e desenvolvimento de sistema na Universidade Nove de Julho Uninove, atualmente estou cursando JavaScript no Instituto Proa.<br>
+Me chamo João Victor, tenho 22 anos e sou de São Paulo (SP). Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho (UNINOVE) e atualmente curso JavaScript pelo Instituto PROA.
 
-Sou apaixonado por tecnologia, busco desafio real.
+Tenho grande interesse por tecnologia e desenvolvimento web, buscando constantemente novos desafios que me permitam evoluir, adquirir experiência prática e contribuir com soluções eficientes e inovadoras.
