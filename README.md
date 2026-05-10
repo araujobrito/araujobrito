@@ -4,7 +4,7 @@ src="https://raw.githubusercontent.com/gist/araujobrito/3b317c3f3e23c2526d2d5182
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </br>I'm João Victor </h1>
 
 
-**'Desenvolvedor FullStack / Engenharia / Desenvolvimento de software '**<br>
+**'  Web Developer / Software Developer '**<br>
 
 * Sobre mim 
 <br>
